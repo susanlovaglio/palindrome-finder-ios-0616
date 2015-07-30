@@ -1,7 +1,4 @@
----
-languages: objc
-tags: algorithms, strings, todo
----
+
 
 # Palindrome Finder
 
