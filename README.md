@@ -14,3 +14,5 @@ Write a single method to detect if an `NSString` is a [palindrome](http://en.wik
   1. Make it a category on `NSString`
 
   
+
+<a href='https://learn.co/lessons/palindrome-finder' data-visibility='hidden'>View this lesson on Learn.co</a>
