@@ -15,4 +15,4 @@ Write a single method to detect if an `NSString` is a [palindrome](http://en.wik
 
   
 
-<a href='https://learn.co/lessons/palindrome-finder' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/palindrome-finder' title='Palindrome Finder'>Palindrome Finder</a> on Learn.co and start learning to code for free.</p>
